@@ -1,2 +1,6 @@
 # Machine-Learning.-Basic
-Домашние задания курса Machine Learning. Basic
+Этот репозиторий содержит мои домашние задания по курсу **Machine Learning. Basic**.
+
+## Структура
+- `hw-4/` — задания по теме "Функции"
+- ...
